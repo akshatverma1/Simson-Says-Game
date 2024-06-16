@@ -46,6 +46,7 @@ function checkAns(){
         heading.innerText="Game Over";
         console.log("Better Luck Next Time");
         console.log("Akshat Verma");
+        console.log("For Git Commit");
         reset();
     }
 }
