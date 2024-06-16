@@ -45,6 +45,7 @@ function checkAns(){
     }else{
         heading.innerText="Game Over";
         console.log("Better Luck Next Time");
+        console.log("Akshat Verma");
         reset();
     }
 }
