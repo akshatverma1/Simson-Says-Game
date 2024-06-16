@@ -42,6 +42,7 @@ function checkAns(){
             levelUp();
         }
         console.log("succes");
+        console.log("succes");
     }else{
         heading.innerText="Game Over";
         console.log("Better Luck Next Time");
