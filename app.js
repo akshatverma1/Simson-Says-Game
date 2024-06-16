@@ -44,6 +44,8 @@ function checkAns(){
         console.log("succes");
         console.log("succes");
     }else{
+        
+        console.log("succes");
         heading.innerText="Game Over";
         console.log("Better Luck Next Time");
         console.log("Akshat Verma");
